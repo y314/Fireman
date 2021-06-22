@@ -1,0 +1,7 @@
+MQ2 = PIn 34
+MQ5 = pin 35
+
+Termo:
+so = Pin 12
+cs = Pin 16
+sck = Pin 14
