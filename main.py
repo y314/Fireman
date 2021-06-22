@@ -75,7 +75,7 @@ def report(cnt=2880):
     i=0
     while i<cnt:
         i+=1
-        print(status())
+        getValues()
         sleep(10)
     led.on()
 
